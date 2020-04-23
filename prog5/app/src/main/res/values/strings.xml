@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Prog 5</string>
+    <string name="weightLabel">Weight</string>
+    <string name="heightLabel">Height</string>
+    <string name="bmiLabel">BMI</string>
+    <string name="genericHint">choose english or metric system</string>
+    <string name="englishSystem">Pounds/Inches</string>
+    <string name="metricSystem">Kilograms/Meters</string>
+    <string name="calculateButtonText">Calculate</string>
+    <string name="adviceButtonTest">Advice</string>
+    <string name="bmiOutputTempText">Your BMI…</string>
+</resources>
