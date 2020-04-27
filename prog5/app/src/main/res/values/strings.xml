@@ -9,4 +9,7 @@
     <string name="calculateButtonText">Calculate</string>
     <string name="adviceButtonTest">Advice</string>
     <string name="bmiOutputTempText">Your BMI…</string>
+    <string name="advice">Here Is Your Advice</string>
+    <string name="todo">TODO</string>
+
 </resources>

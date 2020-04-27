@@ -65,6 +65,7 @@
         android:layout_marginTop="10dp"
         android:layout_marginEnd="100dp"
         android:layout_marginRight="100dp"
+        android:onClick="advice"
         android:text="@string/adviceButtonTest"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
